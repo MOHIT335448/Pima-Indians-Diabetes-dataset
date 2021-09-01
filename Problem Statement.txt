@@ -1,0 +1,2 @@
+Problem Statement - 
+Download Pima Indians Diabetes dataset. Use Naive Bayes‟ Algorithm for classification  Load the data from CSV file and split it into training and test datasets.  summarize the properties in the training dataset so that we can calculate probabilities and make predictions.  Classify samples from a test dataset and a summarized training dataset.
